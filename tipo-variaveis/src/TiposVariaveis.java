@@ -24,6 +24,14 @@ public class TiposVariaveis {
 
         System.out.println("Var são iguais? " + nome.equals(rs));
 
+        if(a==b){
+            System.out.println("as duas var são iguais");
+        }
+
+        //sintaxe - metodos
+
+        
+
 
 
 
